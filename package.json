@@ -1,0 +1,27 @@
+{
+  "name": "nestjs-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "nest start --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuttasakcom/nestjs-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuttasakcom/nestjs-from-scratch/issues"
+  },
+  "homepage": "https://github.com/yuttasakcom/nestjs-from-scratch#readme",
+  "dependencies": {
+    "@nestjs/common": "^7.0.13",
+    "@nestjs/core": "^7.0.13",
+    "@nestjs/platform-express": "^7.0.13",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^6.5.5"
+  }
+}
